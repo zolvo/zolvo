@@ -23,6 +23,14 @@
 
 ### Glad to see you here! 😍 &nbsp;
 
+this is a ✨ _special_ ✨ repository because its a special one.
+- 🔭 I’m currently working on my private project
+- 🌱 I’m currently learning something
+- 👯 I’m looking to collaborate on the future project
+- 💬 Ask me about anything [here](https://github.com/zolvo/zolvo/issues)
+- 📫 How to reach me: asicomindo@gmail.com
+- ⚡ 2021 Goals: Contribute more to Open Source projects
+
 <p alignt='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zolvo&theme=radical&hide_langs_below=1&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zolvo&show_icons=true&theme=radical&line_height=21"/>
