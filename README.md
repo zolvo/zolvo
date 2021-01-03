@@ -31,7 +31,7 @@ this is a ✨ _special_ ✨ repository because its a special one.
 - 📫 How to reach me: asicomindo@gmail.com
 - ⚡ 2021 Goals: Contribute more to Open Source projects
 
-**Languages and Tools:** &nbsp:
+**Languages and Tools:** &nbsp;
 <code><img height='15' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fcale82350fe8e3517d3494d/topics/python/python.png> </code>
 
 
