@@ -1,7 +1,9 @@
 ### Hi there I'm Ronald Regan Palisuan!
 <a href='https://discordapp.com/users/713540446034591814'>
-  <img align='left' width='16px' src='https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/discord.svg' />
-  
+  <img align='left' width='21px' src='https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/discord.svg' />
+</a>
+<a href='https://twitter.com/rpalisuan'>
+  <img align='left' width='21px' src='https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg' />
 </a>
 
 
