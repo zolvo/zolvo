@@ -48,8 +48,8 @@ this is a ✨ _special_ ✨ repository because its a special one.
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 <p alignt='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zolvo&theme=radical&hide_langs_below=8&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zolvo&theme=radical&hide_langs_below=8&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zolvo&theme=radical&hide_langs_below=12&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zolvo&theme=radical&hide_langs_below=12&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zolvo&show_icons=true&theme=radical&line_height=21"/>
 </p>
 
