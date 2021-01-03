@@ -1,4 +1,6 @@
-### Hi there my Ronald
+### Hi there I'm Ronald Regan Palisuan!
+
+### Glad to see you here! 😍 &nbsp;
 
 <p alignt='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zolvo&theme=radical&hide_langs_below=1&layout=compact" />
