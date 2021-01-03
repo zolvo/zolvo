@@ -45,7 +45,7 @@ this is a ✨ _special_ ✨ repository because its a special one.
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zolvo)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zolvo)](https://github.com/anuraghazra/github-readme-stats)
 
 <p alignt='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zolvo&theme=radical&hide_langs_below=12&layout=compact" />
