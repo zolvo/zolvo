@@ -40,14 +40,14 @@ this is a ✨ _special_ ✨ repository because its a special one.
 <code><img height='15' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png'> </code>
 <code><img height='15' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png'> </code>
 
-
-
 <br/>
-<p alignt='center'>
+
+<p align='center'>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zolvo" />
 <img alignt="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=8003d91f-01c3-410f-9a3f-93bbf173a8d4&layout=compat" />
 </p>
-<p alignt='center'>
+
+<p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zolvo&theme=radical&hide_langs_below=12&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zolvo&show_icons=true&theme=radical&line_height=21"/>
 </p>
