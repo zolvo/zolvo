@@ -18,10 +18,12 @@
   <img align='left' width='16px' src='https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg' />
 </a>
 
-<br/>
+<br />
+<br />
 
 
 ### Glad to see you here! 😍 &nbsp;
+<br />
 
 this is a ✨ _special_ ✨ repository because its a special one.
 - 🔭 I’m currently working on a private project
