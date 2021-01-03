@@ -1,8 +1,8 @@
 ### Hi there my Ronald
 
 <p alignt='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zolvo&theme=tokyonight&hide_langs_below=1&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zolvo&show_icons=true&theme=tokyonight&line_height=18"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zolvo&theme=radical&hide_langs_below=1&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zolvo&show_icons=true&theme=radical&line_height=18"/>
 </p>
 
 <!--
