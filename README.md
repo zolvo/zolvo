@@ -55,8 +55,12 @@ this is a ✨ _special_ ✨ repository because its a special one.
 
 
 <br/>
+<h2 align='center'>
 Random memes &nbsp;
 <img align="center" alt="Random Memes" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
+</h2>  
+  
+  
 <!--
 **zolvo/zolvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
