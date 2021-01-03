@@ -40,7 +40,7 @@ this is a ✨ _special_ ✨ repository because its a special one.
 <code><img height='15' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png'> </code>
 <code><img height='15' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png'> </code>
 
-<br/>
+<br />
 
 <p align='center'>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zolvo" />
@@ -54,11 +54,12 @@ this is a ✨ _special_ ✨ repository because its a special one.
 
 
 
-<br/>
+<br />
 <h2 align='center'>
 Random memes
   
-<br/>
+<br />
+<br />
 <img align="center" alt="Random Memes" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
 </h2>  
   
