@@ -1,6 +1,6 @@
 ### Hi there I'm Ronald Regan Palisuan!
-<a href='https://discord.gg/713540446034591814'>
-  <img align='left' width='16px' src='https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/discord.svg'/>
+<a href='https://discord.gg/user/713540446034591814'>
+  <img align='left' width='16px' src='https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/discord.svg' />
 </a>
 
 
