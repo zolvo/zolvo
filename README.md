@@ -1,21 +1,21 @@
 ### Hi there I'm Ronald Regan Palisuan!
 <a href='https://discordapp.com/users/713540446034591814'>
-  <img align='left' width='21px' src='https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/discord.svg' />
+  <img align='left' width='16px' src='https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/discord.svg' />
 </a>
 <a href='https://twitter.com/rpalisuan'>
-  <img align='left' width='21px' src='https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg' />
+  <img align='left' width='16px' src='https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg' />
 </a>
 <a href='https://www.linkedin.com/in/ronald-regan-palisuan-833451163/'>
-  <img align='left' width='21px' src='https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg' />
+  <img align='left' width='16px' src='https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg' />
 </a>
 <a href='https://www.github.com/zolvo'>
-  <img align='left' width='21px' src='https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg' />
+  <img align='left' width='16px' src='https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg' />
 </a>
 <a href='https://www.instagram.com/ronaldpalisuan/'>
-  <img align='left' width='21px' src='https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg' />
+  <img align='left' width='16px' src='https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg' />
 </a>
 <a href='https://www.facebook.com/rpalisuan/'>
-  <img align='left' width='21px' src='https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg' />
+  <img align='left' width='16px' src='https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg' />
 </a>
 
 <br/>
