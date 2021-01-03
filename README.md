@@ -31,6 +31,10 @@ this is a ✨ _special_ ✨ repository because its a special one.
 - 📫 How to reach me: asicomindo@gmail.com
 - ⚡ 2021 Goals: Contribute more to Open Source projects
 
+**Languages and Tools:** &nbsp:
+<code><img height='15' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fcale82350fe8e3517d3494d/topics/python/python.png> </code>
+
+
 <p alignt='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zolvo&theme=radical&hide_langs_below=1&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zolvo&show_icons=true&theme=radical&line_height=21"/>
