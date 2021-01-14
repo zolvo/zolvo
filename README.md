@@ -47,8 +47,6 @@ this is a ✨ _special_ ✨ repository because its a special one.
 <br />
 
 <p align='center'>
-
-<img align="center" alt="Random Memes" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
 <span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zolvo" /></span>
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=8003d91f-01c3-410f-9a3f-93bbf173a8d4&layout=compat" /> -->
 </p>
