@@ -48,7 +48,7 @@ this is a ✨ _special_ ✨ repository because its a special one.
 
 <p align='center'>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zolvo" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=8003d91f-01c3-410f-9a3f-93bbf173a8d4&layout=compat" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=8003d91f-01c3-410f-9a3f-93bbf173a8d4&layout=compat" /> -->
 </p>
 
 <p align='center'>
