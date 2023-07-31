@@ -27,7 +27,7 @@
 
 this is a ✨ _special_ ✨ repository because its a special one.
 - 🔭 I’m currently working on a private project
-- 🌱 I’m currently learn something something
+- 🌱 I’m currently learn on something something
 - 👯 I’m looking to collaborate on the future project
 - 💬 Ask me about anything [here](https://github.com/zolvo/zolvo/issues)
 - 📫 How to reach me: asicomindo@gmail.com
